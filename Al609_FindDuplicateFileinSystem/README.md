@@ -24,3 +24,7 @@ You may assume the directory name, file name and file content only has letters a
 The number of files given is in the range of [1,20000].
 You may assume no files or directories share the same name in the same directory.
 You may assume each given directory info represents a unique directory. Directory path and file info are separated by a single blank space.
+
+### Reference
+https://discuss.leetcode.com/topic/91430/c-clean-solution-answers-to-follow-up/3
+https://discuss.leetcode.com/topic/91301/straight-forward-solution-with-a-tiny-bit-of-java8/4
