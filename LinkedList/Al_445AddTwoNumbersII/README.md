@@ -9,3 +9,8 @@ What if you cannot modify the input lists? In other words, reversing the lists i
 ### Example:
 Input: (7 -> 2 -> 4 -> 3) + (5 -> 6 -> 4)
 Output: 7 -> 8 -> 0 -> 7
+
+### Reference
+https://discuss.leetcode.com/topic/65279/easy-o-n-java-solution-using-stack/2
+http://www.cnblogs.com/grandyang/p/6216480.html
+http://bookshadow.com/weblog/2016/10/29/leetcode-add-two-numbers-ii/
